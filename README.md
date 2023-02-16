@@ -4,6 +4,6 @@
 https://github.com/banned-historical-archives/banned-historical-archives.github.io
 
 ![Progress](https://progress-bar.dev/13/?scale=32&title=finished&width=200&color=babaca&suffix=/32)马列毛基础教程（2019年修订）  
-![Progress](https://progress-bar.dev/7/?scale=8&title=finished&width=200&color=babaca&suffix=/8)共产党宣言（人民出版社1963年版）（2019年修订）  
+![Progress](https://progress-bar.dev/6/?scale=8&title=finished&width=200&color=babaca&suffix=/8)共产党宣言（人民出版社1963年版）（2019年修订）  
 ![Progress](https://progress-bar.dev/5/?scale=20&title=finished&width=200&color=babaca&suffix=/20)简明世界史（近代部分）（北京大学历史系1974年版）  
-![Progress](https://progress-bar.dev/1/?scale=20&title=finished&width=200&color=babaca&suffix=/1)纪念中国共产党成立一百周年
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)纪念中国共产党成立一百周年
