@@ -212,10 +212,10 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 我为什么参加红色造反团  
 研究“工代会”会议记录  
 张春桥同志一月四日讲话  
-“四人帮”罪行材料（八）  
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)“四人帮”罪行材料（八）  
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)“四人帮”罪行材料（二）  
 “四人帮”罪行材料（九）  
-“四人帮”罪行材料（六）  
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)“四人帮”罪行材料（六）  
 ![Progress](https://progress-bar.dev/2/?scale=2&title=finished&width=200&color=babaca&suffix=/2)“四人帮”罪行材料（三）  
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)“四人帮”罪行材料（四）  
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)“四人帮”罪行材料（五）  
